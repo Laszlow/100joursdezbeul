@@ -267,4 +267,12 @@
 		"cibles": ["ministre"],
 		"actions": ["chahut"]
 	}
+	{
+		"ville": "Angers",
+		"date": "2023-04-24",
+		"codeInsee": "49007",
+		"description": "Casserolade devant le conseil municipal ou devait être présent le ministre de la Transition écologique et de la Cohésion des territoires. Il ne s'est pas pointé mais était bien en déplacement à Angers.",
+		"cibles": ["ministre"],
+		"actions": ["chahut", "manif"]
+	},
 ]
